@@ -4,7 +4,7 @@
 <html >
 <head>
   <meta charset="UTF-8">
-  <title>MarsLander</title>
+  <title>AVNLogin</title>
   
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
 
@@ -207,7 +207,7 @@ The Mars Lander Help Desk, can assist with issues and concerns regarding:
     <form action="avnlogin" method="post">
       <input type="text" name="username" placeholder="Username"/>
       <input type="password" name="userpassword" placeholder="Password"/>
-      <button>Sign In</button>
+      <button>Login</button>
     </form>
   </div>
    <div class="cta"><a href="">Forgot your password?</a></div>
