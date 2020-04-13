@@ -4,7 +4,7 @@
 <html >
 <head>
   <meta charset="UTF-8">
-  <title>AVNLogin</title>
+  <title>MarsLander</title>
   
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
 
@@ -163,9 +163,9 @@ position: absolute;
 <div id="headlinks">
 <p style="text-align:right"><a href="">Business</a>&#160;&#160;<a href="">Contact Us</a></p>
 </div><br>
-<img src="logopost.jpg" alt="HTML5 Icon" style="width:325px;height:185px;position:absolute;left:60px;top:10px;">
+<img src="ML_Image.PNG" alt="HTML5 Icon" style="width:325px;height:185px;position:absolute;left:60px;top:10px;">
 <b>
-<h1 style="color:#968370;font-size: 350%;position:absolute;left:460px;top:80px;">MARS COMMUNICATION</h1></b>
+<h1 style="color:#968370;font-size: 350%;position:absolute;left:460px;top:80px;">MARS LANDER</h1></b>
 <br><br><br>
 <section class="wlp-login-message-content">
 <p><b>
@@ -174,7 +174,7 @@ position: absolute;
 </i>
 </b>
 <br><br>
-The Mars Help Desk, can assist with issues and concerns regarding:
+The Mars Lander Help Desk, can assist with issues and concerns regarding:
 <br><br>
 <i>
 <font color="orange"> Troubleshooting problems</font>
@@ -192,7 +192,7 @@ The Mars Help Desk, can assist with issues and concerns regarding:
 <ul style="margin-left:20px">
 <li>Call 123-456-7890</li>
 <li>
-<a href="mailto:compliant@devopsunion.com">Email</a>
+<a href="mailto:helpdesk@marlander.com">Email</a>
 </li><br>
  Wholesale Customer Care:
 <br>
@@ -203,11 +203,11 @@ The Mars Help Desk, can assist with issues and concerns regarding:
   <div class="toggle">
    </div>
     <div class="form">
-    <h2>Login to your account</h2>
+    <h2>Sign in to your account</h2>
     <form action="avnlogin" method="post">
       <input type="text" name="username" placeholder="Username"/>
       <input type="password" name="userpassword" placeholder="Password"/>
-      <button>Login</button>
+      <button>Sign In</button>
     </form>
   </div>
    <div class="cta"><a href="">Forgot your password?</a></div>
