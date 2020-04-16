@@ -210,7 +210,7 @@ The Mars Lander Help Desk, can assist with issues and concerns regarding:
       <button>Login</button>
     </form>
   </div>
-   <div class="cta"><a href="">Forgot your password?</a></div>
+   <div class="cta"><a href="">Reset your password?</a></div>
    </div>
    <p class="text-center">
    <span id="fullyear">2017</span>
